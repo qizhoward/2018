@@ -101,10 +101,10 @@ _-__-_
      love + time = line </br>
      time = line - love </br>
      emit = evol - enil </br>
-     edit = edol - 
-      4      22         </br>
+     edit = e_ol - e    </br>
+      4      f?         </br>
       18     4          </br>
-      4*4+2  4*5-2      </br>
+      4*4+2  4*4+2      </br>
 
 
 
