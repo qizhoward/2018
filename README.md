@@ -96,13 +96,15 @@ _-__-_
    future
    ea u s
   
-  　 love + tie = lie
-     love + time = line
-     love + time = line
-     time = line - love
-     
-  
-  
+  　 love + tie = lie   </br>
+     love + time = line </br>
+     love + time = line </br>
+     time = line - love </br>
+     emit = evol - enil </br>
+     edit = edol - 
+      4      22         </br>
+      18     4          </br>
+      4*4+2  4*5-2      </br>
 
 
 
