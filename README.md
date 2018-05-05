@@ -96,8 +96,8 @@ _-__-_
    future
    ea u s
   
-  
-  
+  　
+     love + time = line
   
   
   
