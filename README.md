@@ -87,16 +87,9 @@ _-__-_
       
       catch time ？　catch girlfriend？　catch　house？　catch　money？
       
-      
-   　　　
-      
-  
-  
-   features 
-   future
-   ea u s
-  
-  　     love + tie = lie   </br>
+----------------------------------------------------------------------------------
+
+         love + tie = lie   </br>
          love + time = line </br>
          love + time = line </br>
          time = line - love </br>
@@ -105,7 +98,15 @@ _-__-_
           4      f?         </br>
           18     4          </br>
           4*4+2  4*4+2      </br>
-
+   　　　
+      
+  
+  
+   features 
+   future
+   ea u s
+  
+  　     
 
 
 ing </Br>
