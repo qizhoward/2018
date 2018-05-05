@@ -96,9 +96,11 @@ _-__-_
    future
    ea u s
   
-  　
+  　 love + tie = lie
      love + time = line
-  
+     love + time = line
+     time = line - love
+     
   
   
 
