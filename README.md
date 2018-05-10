@@ -124,8 +124,8 @@ _-__-_
     >>>                            1 1             
     >>>                             1               
     >>                                                     
-   
- 
+                                                    
+                                                     // add some design-time primitives.
                                                      // you can use this way make map and Mapping（draw)...
  
 -----------------------------------------------------------------------------------
