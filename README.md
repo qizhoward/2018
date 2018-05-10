@@ -128,26 +128,27 @@ _-__-_
  
 -----------------------------------------------------------------------------------
                                          
-                                         
-    >                                   | 
-    >>             z z z z z z          |             a a a a a a 
-    >>>             z z z z z           |              a a a a a
-    >>>　            z z z z            |               a a a a                 　  // you look this difference　
-    >>>               z z z             |                a a a
-    >>>                z z              |                 a a
-    >>>                 z               |                  a   
-    >>>                                 |
-    >>>       -----------------------------------------------------------
-    >>>                                 |
-    >>>                 a               |                  z
-    >>>                a a              |                 z z 
-    >>>               a a a             |                z z z
-    >>>              a a a a            |               z z z z 
-    >>>             a a a a a           |              z z z z z 
-    >>>            a a a a a a          |             z z z z z z
-    >>>                                 |
-    >>             
-    >                                   
+                                                                       
+    >                                   |                                 |   
+    >>             z z z z z z          |            a a a a a a          |      . . . . . .
+    >>>             z z z z z           |             a a a a a           |       . . . . .
+    >>>　            z z z z            |              a a a a            |        . . . .       　 // you look this difference
+    >>>               z z z             |               a a a             |         . . .
+    >>>                z z              |                a a              |          . .
+    >>>                 z               |                 a               |           .
+    >>>                                 |                                 |
+    >>>       ------------------------------------------------------------|----------------------- // you look this difference
+    >>>                                 |                                 |
+    >>>                 a               |                 z               |           -
+    >>>                a a              |                z z              |          - -
+    >>>               a a a             |               z z z             |         - - -
+    >>>              a a a a            |              z z z z            |        - - - -
+    >>>             a a a a a           |             z z z z z           |       - - - - -
+    >>>            a a a a a a          |            z z z z z z          |      - - - - - -
+    >>>                                 |                                 |
+    >>>                                                     //you look this difference
+    >>                                  
+    >
     
 ----------------------------------------------------------------------------------
 
