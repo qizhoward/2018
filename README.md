@@ -110,23 +110,30 @@ _-__-_
 -------------------------------------------------------------------------------
 
 
-
-    >                        |------|------|
-    >>                      |-------|-------|  
+    >                         // Like as chess and flower...
+    >>                        |-----|-----|                                    
+    >>>                      |------|------|
+    >>>                     |-------|-------|  
     >>>                              
-    >>>　                 |---------|---------|                             // you look this difference
-    >>>        |---|     |    1 1 1 1 1 1 1   0---      
+    >>>　                 |---------|---------|                                     // you look this difference
+    >>>        |---|     |    1 1 1 1 1 1 1   0---    　　　　　　　   //primitive   
     >>>        0   |     |     1 1 1 1 1 1    |      |-------|
     >>>       0 0  1-----0      1 1 1 1 1     |      |       0
-    >>>      0 0 0 |     |       1 1 1 1      0------1      0 0 
+    >>>      0 0 0 |     |       1 1 1 1      0------1      0 0      //destory
     >>>        |---|     |        1 1 1       |      |     0 0 0  
     >>>                  |----------|---------|      |-------|
     >>>                            1 1             
     >>>                             1               
-    >>                                                     
-                                                    
-                                                     // add some design-time primitives.
-                                                     // you can use this way make map and Mapping（draw)...
+    >>>         user                ．           back worker // Like as teacher and my family.      
+    >>      (They don't know)       ．            (They know and they make more)     
+    >                               ．  
+                                   ＬＲ               
+                                   ＲＬ　　　　　　　
+                                   　
+                                                 　　　// add some design-time primitives.
+                                   　　                // you can use this way make map and Mapping（draw)...
+                                                     　// but you can't destroy.Because is Secret and children can't touch.
+
  
 -----------------------------------------------------------------------------------
                                          
