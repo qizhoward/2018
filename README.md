@@ -214,14 +214,25 @@ _-__-_
  2017 before
   　     
 ----------------------------------------------------------------------------------
+ 2019 after
 
+I want to make a computer game with 3D space.
+
+After
+
+I don't konw future...
+
+C/C++/C#
+C++
+
+I don't konw how to write...
 
 ing </Br>
 C/C++/C#</Br>
 
 C#</Br>
 
-
+----------------------------------------------------------------------------------
 UK time:                            </Br>
 USA time:                           </Br>
 Last edit time:                     </Br>
