@@ -208,8 +208,10 @@ _-__-_
           
 ----------------------------------------------------------------------------------
  
+ computer science and electrical science with gene.
+ food foot girldfriend car plane house money container and life.
+ about ... 
  
-  
    features 
    future
    ea u s
@@ -240,7 +242,7 @@ UK time:                            </Br>
 USA time:                           </Br>
 Last edit time:                     </Br>
 时间:20180426 21:36                  </Br>
-最后编辑时间：20180518 15:52pm 3:52pm  </Br>
+最后编辑时间：20180518 17:23pm 5:23pm  </Br>
 
 ---------------------------------------
 
