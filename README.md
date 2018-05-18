@@ -208,8 +208,9 @@ _-__-_
           
 ----------------------------------------------------------------------------------
  
- computer science and electrical science with gene.
- food foot girldfriend car plane house money container and life.
+ computer science and electrical science with gene.    </br>
+ food foot </br>
+ girldfriend car plane house money container and life.  </br>
  about ... 
  
    features 
