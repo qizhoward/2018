@@ -214,7 +214,7 @@ _-__-_
  about ... </br>
  text container ... </br>
  time line container...</br>
- computer language　and computer mapping design.
+ computer language and computer mapping design.
  computer font(Type___?).font container...</br>
    features 
    future
@@ -246,7 +246,7 @@ UK time:                            </Br>
 USA time:                           </Br>
 Last edit time:                     </Br>
 时间:20180426 21:36                  </Br>
-最后编辑时间：20180518 17:30pm 5:30pm  </Br>
+最后编辑时间：20180519 11:15am </Br>
 
 ---------------------------------------
 About me </br>         
