@@ -249,6 +249,12 @@ Last edit time:                     </Br>
 时间:20180426 21:36                  </Br>
 最后编辑时间：20180519 11:15am </Br>
 
+
+
+  win10 -- win2010???
+  version and time..
+  which one first?
+
 ---------------------------------------
 About me </br>         
       xiaoxiaoxiaoyu</br>
