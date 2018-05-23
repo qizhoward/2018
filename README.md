@@ -252,9 +252,9 @@ Last edit time:20180523 13:10pm     </Br>
 
 
 
-  win10 -- win2010???
-  version and time..
-  which one first?
+  win10 -- win2010???      </Br>
+  version and time..       </Br>
+  which one first?         </Br>
 
 ---------------------------------------
 About me </br>         
