@@ -1,7 +1,7 @@
 # 2018
 
-符号编程学习中... </Br>
-programm(learn and study) ing...</Br>
+符号编程学习中... </br>
+programm(learn and study) ing...</br>
   Primitive Technology ?　source code　？
   
 -----------------------------------------------------------------------------
@@ -44,7 +44,7 @@ _-_-_
 _--_ 
 _-__-_
    
-   　 　　_-　</Br>
+   　 　　_-　</br>
  　　 _-
   
 -----------------------------------------------------------------------------
@@ -237,24 +237,24 @@ C++
 
 I don't konw how to write...
 
-ing </Br>
-C/C++/C#</Br>
+ing </br>
+C/C++/C#</br>
 
-C#</Br>
+C#</br>
 
 ----------------------------------------------------------------------------------
-UK time:                            </Br>
-USA time:                           </Br>
-China time:20180426 21:36           </Br>
-Last edit time:20180523 13:10pm     </Br>
-时间:20180426 21:36                  </Br>
-最后编辑时间：20180523 13:10pm        </Br>
+UK time:                            </br>
+USA time:                           </br>
+China time:20180426 21:36           </br>
+Last edit time:20180523 13:10pm     </br>
+时间:20180426 21:36                  </br>
+最后编辑时间：20180523 13:10pm        </br>
 
 
 
-  win10 -- win2010???      </Br>
-  version and time..       </Br>
-  which one first?         </Br>
+  win10 -- win2010???      </br>
+  version and time..       </br>
+  which one first?         </br>
 
 ---------------------------------------
 About me </br>         
